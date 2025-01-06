@@ -1,0 +1,234 @@
+Publisher: casterman, Size: 320
+Publisher: mame, Size: 135
+Publisher: librairie internationale catholique, Size: 121
+Publisher: perisse, Size: 113
+Publisher: rittler, Size: 105
+Publisher: barbou, Size: 97
+Publisher: ardant, Size: 94
+Publisher: thibaud, Size: 52
+Publisher: lefort, Size: 52
+Publisher: plagaud, Size: 51
+Publisher: landriot, Size: 41
+Publisher: aux bureaux de la sainte famille, Size: 35
+Publisher: parent-desbarres, Size: 32
+Publisher: bureau de la des livres de piété, Size: 30
+Publisher: kittler, Size: 27
+Publisher: gaume, Size: 26
+Publisher: rusand, Size: 22
+Publisher: librairie catholique, Size: 20
+Publisher: sguin, Size: 20
+Publisher: desclee, Size: 17
+Publisher: maison des pères rédemptoristes, Size: 16
+Publisher: ruffet, Size: 14
+Publisher: gallienne, Size: 14
+Publisher: lecoffre, Size: 14
+Publisher: laroche, Size: 12
+Publisher: saintaugustin, Size: 12
+Publisher: lesne, Size: 11
+Publisher: cornillac, Size: 10
+Publisher: marietti, Size: 10
+Publisher: pellion, Size: 10
+Publisher: zech, Size: 8
+Publisher: de brouwer, Size: 8
+Publisher: popelain, Size: 8
+Publisher: thibaut, Size: 8
+Publisher: joly, Size: 8
+Publisher: association catholique du sacré-coeur, Size: 7
+Publisher: mgard, Size: 7
+Publisher: lethielleux, Size: 7
+Publisher: vannier, Size: 6
+Publisher: hanicq, Size: 6
+Publisher: jean evang, Size: 5
+Publisher: lvche, Size: 5
+Publisher: fischer, Size: 5
+Publisher: delsol, Size: 5
+Publisher: gauthier, Size: 5
+Publisher: mquignon, Size: 5
+Publisher: prudont, Size: 5
+Publisher: belon, Size: 4
+Publisher: société de saintvictor, Size: 4
+Publisher: sauvignet, Size: 4
+Publisher: chambeau, Size: 4
+Publisher: bthune, Size: 4
+Publisher: guyot, Size: 4
+Publisher: pouy, Size: 4
+Publisher: outheninchalandre, Size: 4
+Publisher: chaillot, Size: 4
+Publisher: clermont librairie catholique, Size: 4
+Publisher: vieusseux, Size: 4
+Publisher: caron, Size: 4
+Publisher: peltier, Size: 4
+Publisher: fricadeldubiez, Size: 4
+Publisher: prudhomme, Size: 4
+Publisher: aubanel, Size: 4
+Publisher: carez, Size: 3
+Publisher: libraire ecclsiastique, Size: 3
+Publisher: curnier, Size: 3
+Publisher: briguet, Size: 3
+Publisher: bellegarrigue, Size: 3
+Publisher: pontificaux, Size: 3
+Publisher: ponston, Size: 3
+Publisher: nicolle, Size: 3
+Publisher: desmoulins, Size: 3
+Publisher: laguerre, Size: 3
+Publisher: devillario, Size: 3
+Publisher: lefebvre, Size: 3
+Publisher: vial, Size: 3
+Publisher: saintpaul, Size: 3
+Publisher: mulo, Size: 3
+Publisher: chaul, Size: 3
+Publisher: bourguetcalas, Size: 3
+Publisher: librairie de loeuvre de saintpaul, Size: 3
+Publisher: dureau, Size: 3
+Publisher: busseuil, Size: 3
+Publisher: savy, Size: 2
+Publisher: ptri, Size: 2
+Publisher: adam, Size: 2
+Publisher: lambertgentot, Size: 2
+Publisher: sens, Size: 2
+Publisher: société des bons lecteurs, Size: 2
+Publisher: de lamarzelle, Size: 2
+Publisher: escoffier, Size: 2
+Publisher: lefuel, Size: 2
+Publisher: saintmichel, Size: 2
+Publisher: nyon, Size: 2
+Publisher: barret, Size: 2
+Publisher: palm, Size: 2
+Publisher: thiriot, Size: 2
+Publisher: pinet, Size: 2
+Publisher: belin, Size: 2
+Publisher: abadie, Size: 2
+Publisher: oudin, Size: 2
+Publisher: simon, Size: 2
+Publisher: couanon, Size: 2
+Publisher: fr seguin, Size: 2
+Publisher: crozet, Size: 2
+Publisher: pillot, Size: 2
+Publisher: degouy, Size: 2
+Publisher: vimont, Size: 2
+Publisher: dieulafoy, Size: 2
+Publisher: douniol, Size: 2
+Publisher: montarsolo, Size: 2
+Publisher: fischerjoly, Size: 2
+Publisher: pradel, Size: 2
+Publisher: vivs, Size: 2
+Publisher: hnault, Size: 2
+Publisher: trotot, Size: 2
+Publisher: manavit, Size: 2
+Publisher: mguinon, Size: 2
+Publisher: vitet, Size: 2
+Publisher: fonteney, Size: 2
+Publisher: pavie, Size: 2
+Publisher: poussielgue, Size: 2
+Publisher: deckherr, Size: 2
+Publisher: denn, Size: 2
+Publisher: alzine, Size: 2
+Publisher: sarlit, Size: 2
+Publisher: girard, Size: 2
+Publisher: monnoyer, Size: 2
+Publisher: couch, Size: 2
+Publisher: thomasmalvin, Size: 2
+Publisher: boissel, Size: 2
+Publisher: le mle, Size: 2
+Publisher: delhomme, Size: 2
+Publisher: aumont, Size: 2
+Publisher: pellerin, Size: 2
+Publisher: duculotroulin, Size: 2
+Publisher: paya, Size: 2
+Publisher: delalain, Size: 2
+Publisher: rouget, Size: 2
+Publisher: delahaut, Size: 2
+Publisher: vagner, Size: 2
+Publisher: marquiset, Size: 2
+Publisher: veysset, Size: 2
+Publisher: petit, Size: 2
+Publisher: bureau de labeille, Size: 1
+Publisher: tubergue, Size: 1
+Publisher: prosper trenel, Size: 1
+Publisher: lejeune, Size: 1
+Publisher: beauchne, Size: 1
+Publisher: royer, Size: 1
+Publisher: vignancour, Size: 1
+Publisher: cattier, Size: 1
+Publisher: montal, Size: 1
+Publisher: heger, Size: 1
+Publisher: waille, Size: 1
+Publisher: sainton, Size: 1
+Publisher: boget, Size: 1
+Publisher: mollie, Size: 1
+Publisher: descleee, Size: 1
+Publisher: pornin, Size: 1
+Publisher: galles, Size: 1
+Publisher: haener, Size: 1
+Publisher: fauvet jaune, Size: 1
+Publisher: faguier, Size: 1
+Publisher: deligne, Size: 1
+Publisher: hoener, Size: 1
+Publisher: darnaultmaurant, Size: 1
+Publisher: desbenoit, Size: 1
+Publisher: aimburdet, Size: 1
+Publisher: bureau des mlanges religieux, Size: 1
+Publisher: decallonneliagre, Size: 1
+Publisher: poussielguerusand, Size: 1
+Publisher: ignon, Size: 1
+Publisher: bray, Size: 1
+Publisher: beaucrusand, Size: 1
+Publisher: thomas, Size: 1
+Publisher: lefevbre, Size: 1
+Publisher: mellier, Size: 1
+Publisher: saintour, Size: 1
+Publisher: beauchesne, Size: 1
+Publisher: dehansy, Size: 1
+Publisher: leprieur, Size: 1
+Publisher: goy, Size: 1
+Publisher: les religieuses de saintjoseph, Size: 1
+Publisher: librairie universelle, Size: 1
+Publisher: goemaere, Size: 1
+Publisher: offray, Size: 1
+Publisher: benziger, Size: 1
+Publisher: hissette, Size: 1
+Publisher: briez, Size: 1
+Publisher: boiste, Size: 1
+Publisher: mellinetmalassis, Size: 1
+Publisher: berquier, Size: 1
+Publisher: clermont, Size: 1
+Publisher: perol, Size: 1
+Publisher: mossy, Size: 1
+Publisher: lagny, Size: 1
+Publisher: fid anner, Size: 1
+Publisher: barets, Size: 1
+Publisher: bibliothque populaire, Size: 1
+Publisher: pouston, Size: 1
+Publisher: lambert, Size: 1
+Publisher: bgat, Size: 1
+Publisher: hattu, Size: 1
+Publisher: bricon, Size: 1
+Publisher: bousquetoffray, Size: 1
+Publisher: prunet, Size: 1
+Publisher: bellet, Size: 1
+Publisher: langlum, Size: 1
+Publisher: bitsch, Size: 1
+Publisher: picut, Size: 1
+Publisher: van linthout, Size: 1
+Publisher: didier, Size: 1
+Publisher: vaissire, Size: 1
+Publisher: demers, Size: 1
+Publisher: bouquerel, Size: 1
+Publisher: librairie de la socit typographique, Size: 1
+Publisher: merson, Size: 1
+Publisher: villetcollignon, Size: 1
+Publisher: paul mellier, Size: 1
+Publisher: vanderborght, Size: 1
+Publisher: paravia, Size: 1
+Publisher: tablissements de brepols, Size: 1
+Publisher: dechrist, Size: 1
+Publisher: jacquot, Size: 1
+Publisher: mersch, Size: 1
+Publisher: begyn, Size: 1
+Publisher: larumbe, Size: 1
+Publisher: ardent, Size: 1
+Publisher: le chevallier, Size: 1
+Publisher: biarns, Size: 1
+Publisher: leday, Size: 1
+Publisher: maitre, Size: 1
+Publisher: lemaire, Size: 1
