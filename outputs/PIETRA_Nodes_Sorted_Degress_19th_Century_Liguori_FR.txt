@@ -1,0 +1,709 @@
+Nodes ordered by outgoing degree:
+bellegarrigue 176
+rusand 161
+fischer 140
+mame 137
+savy 128
+belon 122
+bureau de la des livres de piété 112
+thibaud 106
+nyon 102
+carez 101
+saintmichel 101
+vannier 101
+lambertgentot 96
+chambeau 96
+lefuel 94
+chaillot 94
+galles 93
+sainton 91
+lesne 91
+landriot 90
+ptri 89
+adam 87
+vieusseux 87
+librairie catholique 83
+association catholique du sacré-coeur 79
+degouy 75
+belin 71
+sens 70
+thiriot 70
+casterman 69
+dehansy 69
+barbou 65
+cornillac 62
+couanon 62
+laguerre 62
+caron 61
+beaucrusand 60
+simon 58
+royer 57
+sguin 56
+lefort 53
+popelain 52
+pinet 51
+montarsolo 49
+berquier 48
+de lamarzelle 46
+pornin 46
+trotot 45
+pavie 45
+ardant 44
+manavit 44
+boiste 43
+fr seguin 41
+hnault 41
+mellinetmalassis 40
+mguinon 39
+fischerjoly 38
+deckherr 37
+devillario 36
+couch 36
+plagaud 36
+outheninchalandre 35
+denn 35
+joly 33
+guyot 32
+abadie 31
+curnier 29
+alzine 29
+peltier 27
+dieulafoy 26
+thomas 25
+leprieur 25
+pradel 25
+gallienne 25
+marietti 24
+fricadeldubiez 23
+monnoyer 23
+bousquetoffray 22
+barret 21
+oudin 20
+prudhomme 20
+perisse 20
+librairie universelle 19
+jean evang 18
+mgard 18
+aumont 18
+darnaultmaurant 16
+crozet 16
+pillot 16
+vimont 16
+mquignon 16
+hanicq 16
+desclee 15
+delalain 15
+fonteney 14
+gaume 13
+goy 13
+thibaut 12
+prudont 12
+montal 11
+ruffet 11
+didier 11
+mulo 10
+vitet 10
+delsol 10
+langlum 10
+dureau 10
+saintaugustin 9
+bthune 9
+offray 9
+pouston 8
+pellion 8
+libraire ecclsiastique 7
+saintour 7
+paya 7
+cattier 6
+mollie 6
+fauvet jaune 6
+pellerin 6
+aubanel 6
+laroche 5
+ignon 5
+barets 5
+sarlit 5
+lecoffre 5
+villetcollignon 5
+librairie internationale catholique 5
+prosper trenel 4
+lejeune 4
+vignancour 4
+vial 4
+hissette 4
+busseuil 4
+société de saintvictor 3
+sauvignet 3
+ponston 3
+bray 3
+mellier 3
+fid anner 3
+rouget 3
+marquiset 3
+descleee 2
+haener 2
+hoener 2
+aimburdet 2
+de brouwer 2
+lefebvre 2
+briez 2
+lambert 2
+lethielleux 2
+bricon 2
+thomasmalvin 2
+boissel 2
+chaul 2
+delhomme 2
+kittler 2
+paul mellier 2
+delahaut 2
+veysset 2
+tubergue 1
+deligne 1
+lefevbre 1
+pouy 1
+saintpaul 1
+mossy 1
+girard 1
+picut 1
+gauthier 1
+vaissire 1
+librairie de la socit typographique 1
+librairie de loeuvre de saintpaul 1
+parent-desbarres 1
+paravia 1
+dechrist 1
+begyn 1
+vagner 1
+leday 1
+petit 1
+bureau de labeille 0
+beauchne 0
+heger 0
+rittler 0
+waille 0
+société des bons lecteurs 0
+zech 0
+escoffier 0
+boget 0
+briguet 0
+lvche 0
+pontificaux 0
+palm 0
+faguier 0
+nicolle 0
+desmoulins 0
+desbenoit 0
+bureau des mlanges religieux 0
+maison des pères rédemptoristes 0
+decallonneliagre 0
+poussielguerusand 0
+beauchesne 0
+douniol 0
+les religieuses de saintjoseph 0
+goemaere 0
+benziger 0
+vivs 0
+clermont librairie catholique 0
+clermont 0
+perol 0
+lagny 0
+bibliothque populaire 0
+poussielgue 0
+bgat 0
+hattu 0
+prunet 0
+bellet 0
+le mle 0
+bitsch 0
+van linthout 0
+demers 0
+bourguetcalas 0
+duculotroulin 0
+bouquerel 0
+aux bureaux de la sainte famille 0
+merson 0
+vanderborght 0
+tablissements de brepols 0
+jacquot 0
+mersch 0
+larumbe 0
+ardent 0
+le chevallier 0
+biarns 0
+maitre 0
+lemaire 0
+
+Nodes ordered by incoming degree:
+plagaud 190
+gallienne 177
+peltier 141
+maitre 134
+leday 132
+lecoffre 125
+desclee 121
+ardant 119
+thibaud 117
+lefort 114
+landriot 113
+delahaut 110
+ruffet 109
+rouget 109
+aubanel 109
+pellion 100
+mgard 97
+villetcollignon 94
+sarlit 90
+delsol 84
+prudhomme 83
+pellerin 82
+barets 81
+prudont 81
+barbou 80
+veysset 75
+marquiset 73
+fonteney 72
+thibaut 70
+mulo 69
+paya 67
+librairie catholique 63
+dureau 61
+langlum 60
+perisse 60
+casterman 59
+lefebvre 59
+joly 59
+didier 59
+fricadeldubiez 58
+busseuil 57
+librairie universelle 52
+lesne 50
+bousquetoffray 49
+leprieur 48
+pradel 48
+vimont 47
+monnoyer 47
+dieulafoy 45
+guyot 43
+petit 41
+sguin 39
+alzine 38
+librairie internationale catholique 38
+thomas 34
+devillario 34
+denn 33
+librairie de loeuvre de saintpaul 31
+gaume 30
+vannier 30
+fischerjoly 30
+mquignon 30
+vieusseux 29
+oudin 28
+fr seguin 28
+outheninchalandre 28
+laguerre 27
+mguinon 27
+mame 26
+fischer 26
+chaillot 26
+popelain 25
+bureau de la des livres de piété 25
+abadie 24
+belin 23
+mellinetmalassis 23
+deckherr 22
+bouquerel 21
+biarns 20
+association catholique du sacré-coeur 19
+kittler 19
+pinet 18
+simon 18
+hnault 18
+girard 17
+curnier 16
+couanon 16
+montarsolo 16
+boiste 16
+zech 15
+beaucrusand 15
+pornin 14
+thiriot 14
+manavit 14
+trotot 13
+cornillac 12
+picut 12
+ardent 12
+de lamarzelle 11
+de brouwer 11
+caron 11
+delalain 11
+aumont 9
+berquier 8
+cattier 7
+sens 7
+galles 7
+hissette 7
+fid anner 7
+boissel 7
+bellegarrigue 6
+ignon 6
+bourguetcalas 6
+le chevallier 6
+royer 5
+pillot 5
+degouy 5
+dehansy 5
+offray 5
+vitet 5
+pouston 5
+lethielleux 5
+delhomme 5
+gauthier 5
+sainton 4
+crozet 4
+saintour 4
+saintpaul 4
+mossy 4
+thomasmalvin 4
+chaul 4
+librairie de la socit typographique 4
+tablissements de brepols 4
+mersch 4
+saintaugustin 3
+lambertgentot 3
+nyon 3
+fauvet jaune 3
+lefevbre 3
+bellet 3
+belon 2
+sauvignet 2
+ptri 2
+adam 2
+carez 2
+rittler 2
+lefuel 2
+saintmichel 2
+descleee 2
+briguet 2
+darnaultmaurant 2
+mellier 2
+lagny 2
+pavie 2
+lambert 2
+hattu 2
+jean evang 1
+laroche 1
+lejeune 1
+vignancour 1
+montal 1
+mollie 1
+barret 1
+lvche 1
+pontificaux 1
+bthune 1
+goy 1
+clermont librairie catholique 1
+briez 1
+clermont 1
+perol 1
+bitsch 1
+hanicq 1
+aux bureaux de la sainte famille 1
+merson 1
+parent-desbarres 1
+dechrist 1
+jacquot 1
+begyn 1
+bureau de labeille 0
+rusand 0
+société de saintvictor 0
+tubergue 0
+savy 0
+prosper trenel 0
+beauchne 0
+heger 0
+waille 0
+société des bons lecteurs 0
+libraire ecclsiastique 0
+escoffier 0
+boget 0
+haener 0
+palm 0
+ponston 0
+marietti 0
+faguier 0
+deligne 0
+hoener 0
+nicolle 0
+desmoulins 0
+desbenoit 0
+aimburdet 0
+chambeau 0
+bureau des mlanges religieux 0
+maison des pères rédemptoristes 0
+decallonneliagre 0
+poussielguerusand 0
+bray 0
+pouy 0
+vial 0
+beauchesne 0
+douniol 0
+les religieuses de saintjoseph 0
+goemaere 0
+benziger 0
+vivs 0
+bibliothque populaire 0
+poussielgue 0
+bgat 0
+bricon 0
+couch 0
+prunet 0
+le mle 0
+van linthout 0
+vaissire 0
+demers 0
+duculotroulin 0
+paul mellier 0
+vanderborght 0
+paravia 0
+vagner 0
+larumbe 0
+lemaire 0
+
+Nodes ordered by overall degree:
+plagaud 226
+thibaud 223
+landriot 203
+gallienne 202
+bellegarrigue 182
+peltier 168
+lefort 167
+fischer 166
+mame 163
+ardant 163
+rusand 161
+librairie catholique 146
+barbou 145
+lesne 141
+bureau de la des livres de piété 137
+desclee 136
+maitre 134
+leday 133
+vannier 131
+lecoffre 130
+savy 128
+casterman 128
+belon 124
+chaillot 120
+ruffet 120
+vieusseux 116
+mgard 115
+aubanel 115
+rouget 112
+delahaut 112
+pellion 108
+nyon 105
+carez 103
+saintmichel 103
+prudhomme 103
+galles 100
+lambertgentot 99
+villetcollignon 99
+association catholique du sacré-coeur 98
+lefuel 96
+chambeau 96
+sainton 95
+sguin 95
+sarlit 95
+belin 94
+delsol 94
+prudont 93
+joly 92
+ptri 91
+adam 89
+laguerre 89
+pellerin 88
+fonteney 86
+barets 86
+thiriot 84
+thibaut 82
+fricadeldubiez 81
+degouy 80
+perisse 80
+mulo 79
+couanon 78
+sens 77
+popelain 77
+veysset 77
+simon 76
+marquiset 76
+guyot 75
+beaucrusand 75
+cornillac 74
+dehansy 74
+paya 74
+leprieur 73
+pradel 73
+caron 72
+dieulafoy 71
+librairie universelle 71
+bousquetoffray 71
+dureau 71
+devillario 70
+monnoyer 70
+langlum 70
+didier 70
+pinet 69
+fr seguin 69
+fischerjoly 68
+denn 68
+alzine 67
+mguinon 66
+montarsolo 65
+vimont 63
+outheninchalandre 63
+mellinetmalassis 63
+royer 62
+lefebvre 61
+busseuil 61
+pornin 60
+thomas 59
+hnault 59
+boiste 59
+deckherr 59
+trotot 58
+manavit 58
+de lamarzelle 57
+berquier 56
+abadie 55
+oudin 48
+pavie 47
+mquignon 46
+curnier 45
+gaume 43
+librairie internationale catholique 43
+petit 42
+couch 36
+librairie de loeuvre de saintpaul 32
+aumont 27
+delalain 26
+marietti 24
+barret 22
+pillot 21
+bouquerel 21
+kittler 21
+crozet 20
+biarns 20
+jean evang 19
+darnaultmaurant 18
+girard 18
+hanicq 17
+zech 15
+vitet 15
+goy 14
+offray 14
+cattier 13
+de brouwer 13
+pouston 13
+picut 13
+saintaugustin 12
+montal 12
+ardent 12
+ignon 11
+saintour 11
+hissette 11
+bthune 10
+fid anner 10
+fauvet jaune 9
+boissel 9
+libraire ecclsiastique 7
+mollie 7
+lethielleux 7
+delhomme 7
+laroche 6
+thomasmalvin 6
+chaul 6
+gauthier 6
+bourguetcalas 6
+le chevallier 6
+lejeune 5
+sauvignet 5
+vignancour 5
+mellier 5
+saintpaul 5
+mossy 5
+librairie de la socit typographique 5
+prosper trenel 4
+descleee 4
+lefevbre 4
+vial 4
+lambert 4
+tablissements de brepols 4
+mersch 4
+société de saintvictor 3
+ponston 3
+bray 3
+briez 3
+bellet 3
+rittler 2
+briguet 2
+haener 2
+hoener 2
+aimburdet 2
+lagny 2
+hattu 2
+bricon 2
+parent-desbarres 2
+paul mellier 2
+dechrist 2
+begyn 2
+tubergue 1
+lvche 1
+pontificaux 1
+deligne 1
+pouy 1
+clermont librairie catholique 1
+clermont 1
+perol 1
+bitsch 1
+vaissire 1
+aux bureaux de la sainte famille 1
+merson 1
+paravia 1
+jacquot 1
+vagner 1
+bureau de labeille 0
+beauchne 0
+heger 0
+waille 0
+société des bons lecteurs 0
+escoffier 0
+boget 0
+palm 0
+faguier 0
+nicolle 0
+desmoulins 0
+desbenoit 0
+bureau des mlanges religieux 0
+maison des pères rédemptoristes 0
+decallonneliagre 0
+poussielguerusand 0
+beauchesne 0
+douniol 0
+les religieuses de saintjoseph 0
+goemaere 0
+benziger 0
+vivs 0
+bibliothque populaire 0
+poussielgue 0
+bgat 0
+prunet 0
+le mle 0
+van linthout 0
+demers 0
+duculotroulin 0
+vanderborght 0
+larumbe 0
+lemaire 0
+​
+weights = []
