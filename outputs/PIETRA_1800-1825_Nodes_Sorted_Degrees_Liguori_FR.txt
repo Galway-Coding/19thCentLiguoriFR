@@ -1,0 +1,167 @@
+Nodes ordered by outgoing degree:
+savy 34
+perisse 29
+degouy 24
+dehansy 23
+delalain 21
+caron 21
+aumont 21
+nyon 19
+pavie 17
+manavit 16
+saintmichel 15
+mame 15
+lefort 14
+galles 13
+hanicq 13
+prudont 12
+goy 11
+librairie de la socit typographique 10
+chambeau 10
+boissel 9
+darnaultmaurant 8
+carez 8
+berquier 8
+vieusseux 8
+rusand 8
+barret 7
+begyn 7
+vannier 7
+couch 7
+deckherr 6
+fischer 6
+joly 5
+trotot 5
+chaul 4
+mellinetmalassis 4
+lefuel 4
+chaillot 4
+busseuil 4
+lambertgentot 3
+mquignon 3
+hissette 2
+mguinon 2
+hnault 2
+bellegarrigue 2
+fid anner 1
+aubanel 1
+libraire ecclsiastique 0
+fauvet jaune 0
+montarsolo 0
+duculotroulin 0
+picut 0
+montal 0
+saintour 0
+boiste 0
+
+Nodes ordered by incoming degree:
+fischer 40
+mquignon 38
+montarsolo 33
+boiste 29
+bellegarrigue 22
+chaillot 21
+hnault 17
+lefort 17
+vannier 17
+trotot 17
+mguinon 15
+lefuel 15
+picut 15
+lambertgentot 13
+deckherr 13
+joly 13
+montal 13
+saintour 12
+carez 11
+mellinetmalassis 10
+aubanel 10
+saintmichel 9
+fid anner 9
+busseuil 9
+manavit 8
+fauvet jaune 6
+berquier 6
+perisse 5
+rusand 5
+vieusseux 4
+prudont 3
+nyon 3
+galles 2
+delalain 2
+darnaultmaurant 2
+mame 2
+caron 1
+aumont 1
+boissel 1
+dehansy 1
+pavie 1
+barret 1
+chambeau 1
+hissette 0
+degouy 0
+savy 0
+libraire ecclsiastique 0
+chaul 0
+librairie de la socit typographique 0
+goy 0
+hanicq 0
+begyn 0
+couch 0
+duculotroulin 0
+
+Nodes ordered by overall degree:
+fischer 46
+mquignon 41
+savy 34
+perisse 34
+montarsolo 33
+lefort 31
+boiste 29
+chaillot 25
+degouy 24
+dehansy 24
+manavit 24
+saintmichel 24
+vannier 24
+bellegarrigue 24
+delalain 23
+caron 22
+aumont 22
+nyon 22
+trotot 22
+carez 19
+deckherr 19
+hnault 19
+lefuel 19
+pavie 18
+joly 18
+mguinon 17
+mame 17
+lambertgentot 16
+galles 15
+prudont 15
+picut 15
+mellinetmalassis 14
+berquier 14
+hanicq 13
+busseuil 13
+rusand 13
+montal 13
+vieusseux 12
+saintour 12
+goy 11
+chambeau 11
+aubanel 11
+boissel 10
+librairie de la socit typographique 10
+darnaultmaurant 10
+fid anner 10
+barret 8
+begyn 7
+couch 7
+fauvet jaune 6
+chaul 4
+hissette 2
+libraire ecclsiastique 0
+duculotroulin 0
