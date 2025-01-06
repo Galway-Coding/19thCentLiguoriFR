@@ -1,0 +1,5 @@
+Sorted Source Places: [('Paris', 141), ('Lyon', 92), ('Toulouse', 36), ('Amiens', 29), ('Avignon', 26), ('Saumur', 24), ('Angers', 17), ('Lille', 14), ('Vannes', 13), ('Nantes', 13), ('Malines', 13), ('Dôle', 12), ('Orléans', 8), ('Gand [Ghent]', 7), ('Fougères', 7), ('Besançon', 7), ('Montbéliard', 6), ('Saint-Dié', 5), ('Nancy', 2), ('Brest', 1)]
+
+Sorted Target Places: [('Paris', 124), ('Avignon', 85), ('Toulouse', 62), ('Besançon', 33), ('Lyon', 24), ('Lille', 17), ('Fougères', 17), ('Saint-Dié', 17), ('Aurillac', 15), ('Montbéliard', 13), ('Valence', 13), ('Châteauroux', 12), ('Nantes', 11), ('Brest', 9), ('Amiens', 7), ('Bayonne', 6), ('Dôle', 3), ('Vannes', 2), ('Orléans', 2), ('Angers', 1)]
+
+Sorted Overall Places: [('Paris', 265), ('Lyon', 116), ('Avignon', 111), ('Toulouse', 98), ('Besançon', 40), ('Amiens', 36), ('Lille', 31), ('Saumur', 24), ('Nantes', 24), ('Fougères', 24), ('Saint-Dié', 22), ('Montbéliard', 19), ('Angers', 18), ('Aurillac', 15), ('Vannes', 15), ('Dôle', 15), ('Valence', 13), ('Malines', 13), ('Châteauroux', 12), ('Brest', 10), ('Orléans', 10), ('Gand [Ghent]', 7), ('Bayonne', 6), ('Nancy', 2)]
