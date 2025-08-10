@@ -1,0 +1,134 @@
+Nodes ordered by outgoing degree:
+jean evang 18
+casterman 15
+desclee 15
+barbou 10
+saintaugustin 9
+cattier 5
+gaume 5
+librairie internationale catholique 4
+lecoffre 4
+delhomme 3
+leday 2
+bray 2
+lefebvre 2
+descleee 2
+mame 2
+lefevbre 1
+lethielleux 1
+librairie de loeuvre de saintpaul 1
+pouy 1
+de brouwer 1
+mersch 0
+prunet 0
+ardant 0
+maison des pères rédemptoristes 0
+vivs 0
+poussielgue 0
+demers 0
+nan 0
+kittler 0
+briguet 0
+douniol 0
+le chevallier 0
+decallonneliagre 0
+tablissements de brepols 0
+bellet 0
+saintpaul 0
+beauchesne 0
+rittler 0
+aux bureaux de la sainte famille 0
+bourguetcalas 0
+pontificaux 0
+zech 0
+maitre 0
+
+Nodes ordered by incoming degree:
+desclee 12
+lefebvre 11
+de brouwer 11
+zech 10
+maitre 10
+mame 7
+kittler 5
+librairie internationale catholique 4
+briguet 4
+saintaugustin 3
+gaume 3
+le chevallier 3
+leday 2
+cattier 2
+lefevbre 2
+tablissements de brepols 2
+librairie de loeuvre de saintpaul 2
+rittler 2
+barbou 1
+casterman 1
+nan 1
+descleee 1
+lecoffre 1
+saintpaul 1
+aux bureaux de la sainte famille 1
+pontificaux 1
+mersch 0
+jean evang 0
+prunet 0
+ardant 0
+maison des pères rédemptoristes 0
+vivs 0
+bray 0
+poussielgue 0
+delhomme 0
+demers 0
+lethielleux 0
+douniol 0
+decallonneliagre 0
+bellet 0
+pouy 0
+beauchesne 0
+bourguetcalas 0
+
+Nodes ordered by overall degree:
+desclee 27
+jean evang 18
+casterman 16
+lefebvre 13
+saintaugustin 12
+de brouwer 12
+barbou 11
+zech 10
+maitre 10
+mame 9
+librairie internationale catholique 8
+gaume 8
+cattier 7
+kittler 5
+lecoffre 5
+leday 4
+briguet 4
+delhomme 3
+lefevbre 3
+descleee 3
+le chevallier 3
+librairie de loeuvre de saintpaul 3
+bray 2
+tablissements de brepols 2
+rittler 2
+nan 1
+lethielleux 1
+saintpaul 1
+pouy 1
+aux bureaux de la sainte famille 1
+pontificaux 1
+mersch 0
+prunet 0
+ardant 0
+maison des pères rédemptoristes 0
+vivs 0
+poussielgue 0
+demers 0
+douniol 0
+decallonneliagre 0
+bellet 0
+beauchesne 0
+bourguetcalas 0
