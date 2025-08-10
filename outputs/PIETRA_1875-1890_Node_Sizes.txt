@@ -1,0 +1,43 @@
+Publisher: casterman, Size: 30
+Publisher: desclee, Size: 12
+Publisher: saintaugustin, Size: 9
+Publisher: gaume, Size: 8
+Publisher: ardant, Size: 7
+Publisher: de brouwer, Size: 7
+Publisher: librairie internationale catholique, Size: 6
+Publisher: zech, Size: 6
+Publisher: jean evang, Size: 5
+Publisher: nan, Size: 5
+Publisher: barbou, Size: 4
+Publisher: pouy, Size: 4
+Publisher: kittler, Size: 3
+Publisher: lethielleux, Size: 3
+Publisher: pontificaux, Size: 3
+Publisher: mame, Size: 3
+Publisher: rittler, Size: 3
+Publisher: lefebvre, Size: 3
+Publisher: briguet, Size: 3
+Publisher: librairie de loeuvre de saintpaul, Size: 3
+Publisher: bourguetcalas, Size: 2
+Publisher: delhomme, Size: 2
+Publisher: maison des pères rédemptoristes, Size: 2
+Publisher: saintpaul, Size: 2
+Publisher: vivs, Size: 1
+Publisher: mersch, Size: 1
+Publisher: cattier, Size: 1
+Publisher: leday, Size: 1
+Publisher: prunet, Size: 1
+Publisher: decallonneliagre, Size: 1
+Publisher: demers, Size: 1
+Publisher: lecoffre, Size: 1
+Publisher: tablissements de brepols, Size: 1
+Publisher: aux bureaux de la sainte famille, Size: 1
+Publisher: descleee, Size: 1
+Publisher: beauchesne, Size: 1
+Publisher: maitre, Size: 1
+Publisher: bray, Size: 1
+Publisher: douniol, Size: 1
+Publisher: le chevallier, Size: 1
+Publisher: poussielgue, Size: 1
+Publisher: bellet, Size: 1
+Publisher: lefevbre, Size: 1
