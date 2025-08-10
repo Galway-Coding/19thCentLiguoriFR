@@ -1,0 +1,170 @@
+Nodes ordered by outgoing degree:
+mame 28
+devillario 22
+plagaud 21
+pradel 20
+gallienne 20
+landriot 20
+fr seguin 19
+thibaud 19
+pinet 18
+delsol 12
+belin 10
+barbou 9
+leprieur 9
+royer 8
+lesne 8
+de lamarzelle 7
+pornin 6
+thomasmalvin 5
+aubanel 5
+dieulafoy 4
+merson 3
+guyot 3
+pellerin 3
+thomas 2
+paul mellier 2
+villetcollignon 2
+prudhomme 2
+cornillac 2
+girard 1
+caron 1
+tubergue 1
+abadie 1
+parent-desbarres 1
+librairie catholique 1
+vagner 0
+perisse 0
+bgat 0
+lagny 0
+nan 0
+casterman 0
+vanderborght 0
+desmoulins 0
+mellier 0
+ardent 0
+lambert 0
+poussielgue 0
+jacquot 0
+société de saintvictor 0
+waille 0
+heger 0
+société des bons lecteurs 0
+ardant 0
+bureau des mlanges religieux 0
+hanicq 0
+lefort 0
+
+Nodes ordered by incoming degree:
+ardant 31
+landriot 25
+lefort 24
+thibaud 23
+cornillac 20
+delsol 15
+lesne 15
+pellerin 14
+abadie 13
+villetcollignon 12
+librairie catholique 12
+pornin 9
+aubanel 8
+dieulafoy 8
+de lamarzelle 8
+prudhomme 7
+thomas 6
+leprieur 5
+belin 5
+plagaud 5
+ardent 5
+gallienne 4
+guyot 4
+société de saintvictor 3
+pradel 2
+barbou 2
+lagny 2
+fr seguin 1
+mame 1
+nan 1
+mellier 1
+parent-desbarres 1
+lambert 1
+jacquot 1
+royer 1
+devillario 0
+vagner 0
+merson 0
+girard 0
+perisse 0
+bgat 0
+pinet 0
+paul mellier 0
+thomasmalvin 0
+casterman 0
+caron 0
+vanderborght 0
+tubergue 0
+desmoulins 0
+poussielgue 0
+waille 0
+heger 0
+société des bons lecteurs 0
+bureau des mlanges religieux 0
+hanicq 0
+
+Nodes ordered by overall degree:
+landriot 45
+thibaud 42
+ardant 31
+mame 29
+delsol 27
+plagaud 26
+gallienne 24
+lefort 24
+lesne 23
+devillario 22
+pradel 22
+cornillac 22
+fr seguin 20
+pinet 18
+pellerin 17
+belin 15
+de lamarzelle 15
+pornin 15
+leprieur 14
+abadie 14
+villetcollignon 14
+aubanel 13
+librairie catholique 13
+dieulafoy 12
+barbou 11
+royer 9
+prudhomme 9
+thomas 8
+guyot 7
+thomasmalvin 5
+ardent 5
+merson 3
+société de saintvictor 3
+lagny 2
+paul mellier 2
+parent-desbarres 2
+girard 1
+nan 1
+caron 1
+tubergue 1
+mellier 1
+lambert 1
+jacquot 1
+vagner 0
+perisse 0
+bgat 0
+casterman 0
+vanderborght 0
+desmoulins 0
+poussielgue 0
+waille 0
+heger 0
+société des bons lecteurs 0
+bureau des mlanges religieux 0
+hanicq 0
