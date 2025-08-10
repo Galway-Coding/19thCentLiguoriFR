@@ -1,0 +1,55 @@
+Publisher: landriot, Size: 20
+Publisher: thibaud, Size: 20
+Publisher: barbou, Size: 12
+Publisher: mame, Size: 11
+Publisher: plagaud, Size: 10
+Publisher: gallienne, Size: 8
+Publisher: librairie catholique, Size: 7
+Publisher: casterman, Size: 6
+Publisher: lesne, Size: 5
+Publisher: lefort, Size: 5
+Publisher: ardant, Size: 4
+Publisher: perisse, Size: 3
+Publisher: nan, Size: 3
+Publisher: delsol, Size: 3
+Publisher: société de saintvictor, Size: 3
+Publisher: cornillac, Size: 3
+Publisher: devillario, Size: 2
+Publisher: vagner, Size: 2
+Publisher: thomasmalvin, Size: 2
+Publisher: parent-desbarres, Size: 2
+Publisher: guyot, Size: 2
+Publisher: prudhomme, Size: 2
+Publisher: société des bons lecteurs, Size: 2
+Publisher: pradel, Size: 1
+Publisher: merson, Size: 1
+Publisher: girard, Size: 1
+Publisher: fr seguin, Size: 1
+Publisher: bgat, Size: 1
+Publisher: lagny, Size: 1
+Publisher: thomas, Size: 1
+Publisher: leprieur, Size: 1
+Publisher: pinet, Size: 1
+Publisher: paul mellier, Size: 1
+Publisher: belin, Size: 1
+Publisher: caron, Size: 1
+Publisher: aubanel, Size: 1
+Publisher: vanderborght, Size: 1
+Publisher: tubergue, Size: 1
+Publisher: desmoulins, Size: 1
+Publisher: abadie, Size: 1
+Publisher: mellier, Size: 1
+Publisher: ardent, Size: 1
+Publisher: villetcollignon, Size: 1
+Publisher: lambert, Size: 1
+Publisher: dieulafoy, Size: 1
+Publisher: poussielgue, Size: 1
+Publisher: jacquot, Size: 1
+Publisher: de lamarzelle, Size: 1
+Publisher: pornin, Size: 1
+Publisher: waille, Size: 1
+Publisher: royer, Size: 1
+Publisher: heger, Size: 1
+Publisher: pellerin, Size: 1
+Publisher: bureau des mlanges religieux, Size: 1
+Publisher: hanicq, Size: 1
